@@ -5,7 +5,7 @@
 
 ### How to run?
 ```javascript
-$ cd /InQue
+$ cd InQue
 $ npm install
 $ node index.js
 ```
